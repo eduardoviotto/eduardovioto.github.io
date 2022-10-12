@@ -1,0 +1,114 @@
+.topo{
+    background-color: black;
+    height: 250px;
+    color: white;
+}
+
+.foto{
+    background-color: black;
+    border-radius: 50%;
+}
+
+.texto{
+    background-color: black;
+}
+
+.icones{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.icones a{
+    margin: 3px;
+}
+ .sobre{
+    background-color: darkolivegreen;
+ }
+
+/*
+body{
+	background-color: gray;
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+	flex-direction: column;
+	margin: 0;
+	padding: 0;
+}
+*/
+/*nav{
+	height: 5%;
+	width: 100%;
+	background-color: rgb(137, 137, 155);
+    
+
+
+}*/
+header{
+	height: 50%;
+	width: 100%;
+	background-color: black;
+}
+.lado{
+	width: 100%;
+	height: 80%;
+	display: flex;
+	flex-direction: row;
+}
+
+/*
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #111;
+  }
+
+*/
+
+.branco{
+	color: white;
+}
+
+section{
+	height: 100%;
+	width: 100%;
+	
+}
+.titulo{
+	color: white;
+	background-color: black;
+	height: 10%;
+	width: 100%;
+}
+
+.info{
+	color: black;
+	background-color: white;
+	height: 90%;
+	width: 100%;
+}
+/*article{
+	height: 100%;
+	width: 80%;
+	background-color: orange;
+	border: 2px black solid;
+}
+*/
